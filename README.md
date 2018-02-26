@@ -1,6 +1,8 @@
 # rpi
 all settings for rpi 3w zero
 
+https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi/using-the-adafruit-library
+
 downloads: 
 
 wpa_supplicant.conf
